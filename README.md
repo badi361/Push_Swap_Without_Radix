@@ -1,1 +1,3 @@
 # Push_Swap_Without_Radix
+
+5 argümandan fazlasını radix kullanmadan yazdım fakat hamle sayısı çok fazla olduğu için evo sayfasındaki koşullara uymuyor...
